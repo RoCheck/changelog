@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.1.0",
+    "date": "2025-07-16",
+    "changes": [
+      "Added new feature X",
+      "Fixed bug in Y",
+      "Improved performance"
+    ]
+  },
+  {
     "version": "1.0.0",
     "date": "2025-07-15",
     "changes": [
