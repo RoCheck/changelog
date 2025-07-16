@@ -1,20 +1,42 @@
 [
   {
     "version": "1.1.0",
-    "date": "2025-07-16",
-    "changes": [
-      "Added auto-refresh functionality for changelog",
-      "Improved update notifications with version comparison",
-      "Added visual indicators for new features and bug fixes"
+    "date": "2025-07-15",
+    "added": [
+      "Auto-refresh functionality for changelog",
+      "Visual indicators for new features and bug fixes",
+      "Version comparison in update notifications",
+      "User profile tab with avatar display",
+      "Status bar with last update check time"
+    ],
+    "changed": [
+      "Improved error handling throughout the application",
+      "Enhanced UI/UX for update notifications",
+      "Optimized version checking logic"
+    ],
+    "fixed": [
+      "GitHub changelog loading issues",
+      "Duplicate changelog entries",
+      "Syntax errors in version checking",
+      "Memory leaks in update checking"
+    ]
+  },
+  {
+    "version": "1.0.1",
+    "date": "2025-07-15",
+    "fixed": [
+      "Critical bug preventing initial startup",
+      "Login session persistence issues"
     ]
   },
   {
     "version": "1.0.0",
     "date": "2025-07-15",
-    "changes": [
-      "Initial release",
-      "Added ESP functionality",
-      "Added login system"
+    "added": [
+      "Initial release of Roblox ESP Tool",
+      "Basic ESP functionality",
+      "User authentication system",
+      "Changelog system"
     ]
   }
 ]
