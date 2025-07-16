@@ -1,0 +1,11 @@
+[
+  {
+    "version": "1.0.0",
+    "date": "2025-07-15",
+    "changes": [
+      "Initial release",
+      "Added ESP functionality",
+      "Added login system"
+    ]
+  }
+]
